@@ -4,7 +4,7 @@
    $hostName = "127.0.0.1";
    $databaseName = "ps3";
    $username = "geralt";
-   $password = "Woailiyu1";
+   $password = "";
 
    function showerror()
    {
